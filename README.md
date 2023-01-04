@@ -36,7 +36,7 @@ Should be pretty straight forward once you got all the parts and you've already 
 2. Mount the lc display on the display mount and guide the cables through it
 3. Mount the display cover on the lcd display and screw it together
 4. On the main frame push in the 16 switches from above, they might fit very tight
-5. Solder the switches and diodes as described in figure 1
+5. Solder the switches and diodes as seen in figure 1
 6. Push in the rotary encoders from the bottom and screw them in place from above
 7. Fit the Rapsberry Pi Pico in the mount 
 8. Connect the rotary encoder and display cables to the assigned pins (pins.h)
