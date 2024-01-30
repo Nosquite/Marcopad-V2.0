@@ -48,5 +48,5 @@ Should be pretty straight forward once you got all the parts and you've already 
 
 # Firmware
 Be aware that I modified the display library so bitmaps may not work as intended if any other library is used.
-For cusomization I provided multiple layouts which you can assigne functions to. You need to modifiy the code so that it presses the keys which the activate the ahk script.
+For cusomization I provided multiple layouts which you can assign functions to. You need to modifiy the code so that it presses the keys which the activate the ahk script.
 For the bitmaps there is a converter to cpp code where you just need to select an image, the resolution and then the output format. Just add them in the file bitmaps.h and use them like the other ones.
